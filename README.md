@@ -1,7 +1,6 @@
 Collaborated work of Anish Karnik| Jivitesh Soneji| Mithil Pechimuthu
-# 2D-Steady-Diffusion-Equation-using-Numerical-Methods-
-2D Steady Diffusion Equation using Numerical Methods     
 
-Solving the 2D steady diffusion equation in planar geometry with Dirichlet Boundary condition using Python. Utilized the advanced numerical methods, resulting in accurate and reliable solutions.
 
-Generated 2D and 3D graphs to illustrate the diffusion process and authored a comprehensive report showcasing attention to detail, presenting the project's methodology, observations, and conclusions.
+Solved the 2D steady diffusion equation in planar geometry with Dirichlet Boundary conditions using Python. Utilized advanced numerical methods for accurate and reliable solutions.
+
+Developed an efficient iterative algorithm for simulating the diffusion process, demonstrating programming skills and knowledge of mathematical concepts. Generated 2D and 3D graphs to illustrate the diffusion process and authored a comprehensive report showcasing the methodology and details.
